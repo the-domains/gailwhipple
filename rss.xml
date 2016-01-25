@@ -4,8 +4,15 @@
         <description><![CDATA[gailwhipple]]></description>
         <link>https://thegrid.ai/gailwhipple/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 19:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 06:30:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gailwhipple/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Spark Studio</p>]]></description>
+            <link>https://thegrid.ai/gailwhipple/e8bf493c-76e1-4147-be1b-7ce9e4aaed26/index.html</link>
+            <guid isPermaLink="false">e8bf493c-76e1-4147-be1b-7ce9e4aaed26</guid>
+            <pubDate>Mon, 25 Jan 2016 06:30:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Haiku Hello]]></title>
             <description><![CDATA[<article><h1>Haiku Hello</h1><p>a potent pastiche</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b88f24eb4ee6290a3341a6b63dec51658eb6a7a1.jpg"></article>]]></description>
